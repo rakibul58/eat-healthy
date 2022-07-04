@@ -25,10 +25,19 @@ body{
     color: #575757;
     line-height: 50%;
 }
+.last-section h2{
+    
+    font-size: 40px;
+    color: #575757;
+    line-height: 50%;
+}
 .top-section p{
     color: #828282;
 }
 .about-section p{
+    color: #828282;
+}
+.last-section p{
     color: #828282;
 }
 .btn-div{
@@ -70,4 +79,13 @@ body{
 }
 .about-section .half-width p{
     margin-right: 100px;
+}
+.last-section{
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.last-section h2 , p{
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
 }
