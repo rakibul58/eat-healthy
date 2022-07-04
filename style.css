@@ -6,7 +6,7 @@ body{
 
 .flexible-part{
     display: flex;
-    padding-bottom: 80px;
+    
 }
 
 #top-text-links{
@@ -19,7 +19,16 @@ body{
     color: #575757;
     line-height: 50%;
 }
+.about-section h2{
+    
+    font-size: 40px;
+    color: #575757;
+    line-height: 50%;
+}
 .top-section p{
+    color: #828282;
+}
+.about-section p{
     color: #828282;
 }
 .btn-div{
@@ -44,10 +53,21 @@ body{
 .half-width{
     width: 50%;
     margin-left: 5%;
+    padding: 20px;
     
 }
 
 .half-width img{
     width: 90%;
     
+}
+
+.about-section{
+    background-image: url(images/shapes/7.png);
+}
+.about-section .half-width img{
+    width: 50%;
+}
+.about-section .half-width p{
+    margin-right: 100px;
 }
