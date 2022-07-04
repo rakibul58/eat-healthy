@@ -80,12 +80,14 @@ body{
 .about-section .half-width p{
     margin-right: 100px;
 }
-.last-section{
-    margin-top: 80px;
-    margin-bottom: 80px;
-}
-.last-section h2 , p{
+
+.center{
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
+    
+}
+.last-section{
+    margin-top: 80px;
+    margin-bottom: 80px;
 }
