@@ -97,8 +97,8 @@ p{
 }
 
 .recipie-titles-left{
-    width: 46%;
-    margin-left: 3%;
+    width: 40%;
+    margin-left: 10%;
     margin-right: 0.5%;
     padding: 40px;
     box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
@@ -106,16 +106,25 @@ p{
    
 }
 .recipie-titles-right{
-    width: 46%;
+    width: 40%;
     margin-left: 0.5%;
-    margin-right: 3%;
+    margin-right: 10%;
     padding: 40px;
     box-shadow: 0px 4px 40px rgba(0, 0, 0, 0.15);
     border-radius: 30px;
 }
 
+.recipie-text h2{
+    font-weight: 500;
+    color: black;
+}
+.recipie-text p{
+    font-size: 16px;
+    color: black;
+}
 .recipie-text{
-    height: 40%;
-    margin-top: 60px;
-    margin-bottom: -180px;
+ 
+    margin-top: 50px;
+    margin-bottom: -100px;
+   
 }
