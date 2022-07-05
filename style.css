@@ -49,6 +49,12 @@ p{
         -webkit-background-clip: text;
 }
 
+.span-color2{
+    background: linear-gradient(88.33deg, rgb(168, 162, 162) -7.64%, rgb(59, 58, 58) 145.94%);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+}
+
 .half-width{
     width: 50%;
     margin-left: 5%;
@@ -153,5 +159,19 @@ p{
 .social-elements{
     width: 33%;
     text-align: center;
+}
+
+footer{
+    padding-top: 20px;
+    padding-bottom: 90px;
+    background-color: black;
+    color: white;
+}
+
+footer p{
+    color: #5B5B5B;
+}
+footer h2{
+    font-size: 30px;
 }
 
