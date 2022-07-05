@@ -6,38 +6,28 @@ body{
 
 .flexible-part{
     display: flex;
+    margin-bottom: 80px;
     
 }
 
 #top-text-links{
     margin-top: 100px;
-    margin-left: 200px;
+    margin-left: 300px;
 }
-.top-section h2{
+
+#about-text-links{
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+h2{
     
     font-size: 40px;
     color: #575757;
     line-height: 50%;
 }
-.about-section h2{
-    
-    font-size: 40px;
-    color: #575757;
-    line-height: 50%;
-}
-.last-section h2{
-    
-    font-size: 40px;
-    color: #575757;
-    line-height: 50%;
-}
-.top-section p{
-    color: #828282;
-}
-.about-section p{
-    color: #828282;
-}
-.last-section p{
+
+p{
     color: #828282;
 }
 .btn-div{
@@ -66,9 +56,12 @@ body{
     
 }
 
-.half-width img{
-    width: 90%;
-    
+.top-img{
+    width: 80%;
+}
+
+.top-img-div{
+    margin-left: -400px;
 }
 
 .about-section{
@@ -76,10 +69,9 @@ body{
 }
 .about-section .half-width img{
     width: 50%;
+    margin-left: 250px;
 }
-.about-section .half-width p{
-    margin-right: 100px;
-}
+
 
 .center{
     text-align: center;
