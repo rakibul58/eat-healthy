@@ -128,3 +128,30 @@ p{
     margin-bottom: -100px;
    
 }
+
+.social-section h1{
+    font-weight: 900;
+    font-size: 50px;
+    color: black;
+    margin-bottom: 10px;
+    margin-top: 50px;
+}
+.social-section p{
+    
+    font-size: 10px;
+    color: black;
+    margin-bottom: 50px;
+}
+.social-section{
+    /* border: 1px solid black; */
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 15px;
+    box-shadow: 10px 10px 40px rgb(207, 203, 203);
+}
+
+.social-elements{
+    width: 33%;
+    text-align: center;
+}
+
